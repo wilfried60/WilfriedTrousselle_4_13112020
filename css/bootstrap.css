@@ -229,6 +229,20 @@ th {
     padding: 0
 }
 
+.col-sm-3 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+.col-sm-3 {
+        float: left
+    }
+
+.col-sm-3 {
+    width: 25%
+}
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
 @media print {
